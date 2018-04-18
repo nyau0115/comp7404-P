@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="963652c2-c370-487e-acb1-b36a1a35a306" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/all_test_short.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/all_shuffled_test.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/all_shuffled_train.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/all_test.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/all_train.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/alll_test.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/alll_train.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/qa10_indefinite-knowledge_test.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/qa10_indefinite-knowledge_train.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/qa11_basic-coreference_test.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/qa11_basic-coreference_train.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/qa12_conjunction_test.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/qa12_conjunction_train.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/qa13_compound-coreference_test.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/qa13_compound-coreference_train.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/qa14_time-reasoning_test.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/qa14_time-reasoning_train.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/qa15_basic-deduction_test.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/qa15_basic-deduction_train.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/qa16_basic-induction_test.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/qa16_basic-induction_train.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/qa17_positional-reasoning_test.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/qa17_positional-reasoning_train.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/qa18_size-reasoning_test.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/qa18_size-reasoning_train.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/qa19_path-finding_test.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/qa19_path-finding_train.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/qa1_single-supporting-fact_minimum_test.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/qa1_single-supporting-fact_minimum_train.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/qa1_single-supporting-fact_test.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/qa1_single-supporting-fact_train.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/qa20_agents-motivations_test.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/qa20_agents-motivations_train.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/qa2_two-supporting-facts_test.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/qa2_two-supporting-facts_train.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/qa3_three-supporting-facts_test.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/qa3_three-supporting-facts_train.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/qa4_two-arg-relations_test.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/qa4_two-arg-relations_train.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/qa5_extra_short_test.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/qa5_extra_short_train.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/qa5_quarter_test.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/qa5_quarter_train.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/qa5_short_test.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/qa5_short_train.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/qa5_three-arg-relations_test.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/qa5_three-arg-relations_train.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/qa6_yes-no-questions_test.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/qa6_yes-no-questions_train.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/qa7_counting_test.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/qa7_counting_train.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/qa8_lists-sets_test.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/qa8_lists-sets_train.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/qa9_simple-negation_test.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/qa9_simple-negation_train.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/qa1_single-supporting-fact_minimum_test.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/qa1_single-supporting-fact_test.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/qa1_single-supporting-fact_train.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/qa5_extra_short_test.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/qa5_extra_short_train.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/qa5_quarter_test.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/qa5_quarter_train.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/qa5_three-arg-relations_test.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/qa5_three-arg-relations_train.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dmn_untied.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fetch_babi_data.sh" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dmn_tied.py" afterPath="$PROJECT_DIR$/dmn.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/train.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/nn_utils.py" afterPath="$PROJECT_DIR$/helper_utils.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/states/dmn_smooth.mh3.n80.bs10.d0.01.babi2.epoch129.test0.96979.state" afterPath="$PROJECT_DIR$/networks/dmn_smooth.mh3.n80.bs10.d0.01.babi2.epoch129.test0.96979.state" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/states/dmn_smooth.mh3.n80.bs10.d0.01.babi3.epoch5.test2.28914.state" afterPath="$PROJECT_DIR$/networks/dmn_smooth.mh3.n80.bs10.d0.01.babi3.epoch5.test2.28914.state" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/states/dmn_smooth.mh3.n80.bs10.d0.01.babi6.epoch90.test0.01423.state" afterPath="$PROJECT_DIR$/networks/dmn_smooth.mh3.n80.bs10.d0.01.babi6.epoch90.test0.01423.state" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/states/dmn_smooth.mh3.n80.bs10.d0.1.babi17.epoch498.test1.19528.state" afterPath="$PROJECT_DIR$/networks/dmn_smooth.mh3.n80.bs10.d0.1.babi17.epoch498.test1.19528.state" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/utils.py" afterPath="$PROJECT_DIR$/babi_utils.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/webapp.py" afterPath="$PROJECT_DIR$/server.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.theanorc" afterPath="$PROJECT_DIR$/.theanorc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/requirements.txt" afterPath="$PROJECT_DIR$/requirements.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/index.html" afterPath="$PROJECT_DIR$/templates/index.html" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../COMP7404-P/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="24" column="34" lean-forward="false" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../COMP7404-P/keras/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="train.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../COMP7404-P/train.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="64" lean-forward="false" selection-start-line="14" selection-start-column="64" selection-end-line="14" selection-end-column="64" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="server.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../COMP7404-P/server.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="281">
+              <caret line="76" column="6" lean-forward="false" selection-start-line="76" selection-start-column="6" selection-end-line="76" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../COMP7404-P/static/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-414">
+              <caret line="65" column="11" lean-forward="false" selection-start-line="65" selection-start-column="11" selection-end-line="65" selection-end-column="11" />
+              <folding>
+                <marker date="1523684638000" expanded="true" signature="3919:4016" ph="..." />
+                <marker date="1523684638000" expanded="true" signature="4116:4129" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../COMP7404-P/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="151">
+              <caret line="87" column="32" lean-forward="false" selection-start-line="87" selection-start-column="32" selection-end-line="87" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../COMP7404-P/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="babi_utils.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../COMP7404-P/babi_utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dmn_fast.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../COMP7404-P/dmn_fast.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-164">
+              <caret line="35" column="4" lean-forward="false" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="helper_utils.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../COMP7404-P/helper_utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fails.append(user+ ':' + e.message)</find>
+      <find>u</find>
+      <find>scipy</find>
+      <find>`nelson</find>
+      <find>test_input</find>
+      <find>dmn_tied</find>
+      <find>output = ex / e_x.sum(axis=0, keepdims=True)</find>
+      <find>utils</find>
+      <find>dmn</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/../COMP7404-P</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/static/script.js" />
+        <option value="$PROJECT_DIR$/.theanorc" />
+        <option value="$PROJECT_DIR$/dmn_tied.py" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/server.py" />
+        <option value="$PROJECT_DIR$/../COMP7404-P/templates/index.html" />
+        <option value="$PROJECT_DIR$/../COMP7404-P/server.py" />
+        <option value="$PROJECT_DIR$/../COMP7404-P/dmn_fast.py" />
+        <option value="$PROJECT_DIR$/../COMP7404-P/helper_utils.py" />
+        <option value="$PROJECT_DIR$/../COMP7404-P/train.py" />
+        <option value="$PROJECT_DIR$/../COMP7404-P/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="COMP7404" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="COMP7404-P" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="COMP7404" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="COMP7404-P" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="COMP7404" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="COMP7404-P" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="networks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="FullScreen" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../COMP7404-P/networks" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Improved-Dynamic-Memory-Networks-DMN-plus copy">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Improved-Dynamic-Memory-Networks-DMN-plus copy" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Improved-Dynamic-Memory-Networks-DMN-plus copy" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Improved-Dynamic-Memory-Networks-DMN-plus copy" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Improved-Dynamic-Memory-Networks-DMN-plus copy" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="Improved-Dynamic-Memory-Networks-DMN-plus copy" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Improved-Dynamic-Memory-Networks-DMN-plus copy" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Improved-Dynamic-Memory-Networks-DMN-plus copy" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Improved-Dynamic-Memory-Networks-DMN-plus copy" type="PythonConfigurationType" factoryName="Python" singleton="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Improved-Dynamic-Memory-Networks-DMN-plus copy" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.Improved-Dynamic-Memory-Networks-DMN-plus copy" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="963652c2-c370-487e-acb1-b36a1a35a306" name="Default" comment="" />
+      <created>1524069509955</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524069509955</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2180937" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../COMP7404-P/static/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../COMP7404-P/.theanorc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../COMP7404-P/babi_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../COMP7404-P/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../COMP7404-P/keras/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../COMP7404-P/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="24" column="34" lean-forward="false" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../COMP7404-P/static/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-414">
+          <caret line="65" column="11" lean-forward="false" selection-start-line="65" selection-start-column="11" selection-end-line="65" selection-end-column="11" />
+          <folding>
+            <marker date="1523684638000" expanded="true" signature="3919:4016" ph="..." />
+            <marker date="1523684638000" expanded="true" signature="4116:4129" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../COMP7404-P/helper_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../COMP7404-P/dmn_fast.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-164">
+          <caret line="35" column="4" lean-forward="false" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../COMP7404-P/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="64" lean-forward="false" selection-start-line="14" selection-start-column="64" selection-end-line="14" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../COMP7404-P/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="76" column="6" lean-forward="false" selection-start-line="76" selection-start-column="6" selection-end-line="76" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../COMP7404-P/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="87" column="32" lean-forward="false" selection-start-line="87" selection-start-column="32" selection-end-line="87" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
