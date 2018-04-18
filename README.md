@@ -1,4 +1,5 @@
 
+
 # Natural Language Processing - Question Answering System
 
 We are Group P. For the presentation we intend to focus on Dynamic Memory Network, which is a machine learning technique useful for natural language processing.  We will illustrate the concept by implementing a question answering system with the dataset from Wikipedia to allow users to input a question and get a relevant answer from the dataset.
@@ -35,15 +36,15 @@ The QAS will be implemented with DMN because it is a mature network for common f
 
 ***Langauges & Version***
 
-	Python 2.7.10
+   Python 2.7.10
 
 ***Modules Required:***
 
 Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently
 
-	pip install theano
+   pip install theano
 
-Lasagne,
+Lasagne is a lightweight library to build and train neural networks in Theano
 
     pip install install -r https://raw.githubusercontent.com/Lasagne/Lasagne/master/requirements.txt
     pip install https://github.com/Lasagne/Lasagne/archive/master.zip
@@ -60,6 +61,10 @@ Scipy is a Python-based ecosystem of open-source software for mathematics, scien
 
     pip install scipy
 
+Scikit-Learn is a simple and efficient tools for data mining and data analysis.
+
+    pip install scikit-learn
+
 Flask is a micro web framework written in Python and is used to implement the web application in this project.
 
     pip install flask
@@ -70,7 +75,7 @@ NLTK(Natural Language Toolkit) is a leading platform for building Python program
 
  After installing NLTK, download Punkt Tokenizer Models by running python interpreter in your terminal  with the commands below:
 
-	import nltk
+   import nltk
     nltk.download('punkt')
 
 `.theanorc` file contains theano configuration that was used; dmn.py might yield NaN if included `.theanorc` configuration is not used.
@@ -95,7 +100,7 @@ then go to http://127.0.0.1:8000/ in browser
 Reminder: Loading pre-trained network may take up to few minutes.
 
 ## Data
-Dataset used in this project is English bAbI task (10k) from facebook research
+Dataset used in this project is English bAbI task (10k) from Facebook research
 
 According to Facebook:
 
@@ -127,6 +132,10 @@ According to Facebook:
 | 14 | 1.1 |
 | 17 | 20.2 |
 | 18 | 8.6 |
+
+## Deployment
+The project is deployed in AWS: http://52.36.74.244:8002/
+ You are welcome to report if there is any issue.
 
 ## Acknowledgements
 
