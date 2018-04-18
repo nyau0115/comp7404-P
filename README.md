@@ -1,5 +1,6 @@
 
 
+
 # Natural Language Processing - Question Answering System
 
 We are Group P. For the presentation we intend to focus on Dynamic Memory Network, which is a machine learning technique useful for natural language processing.  We will illustrate the concept by implementing a question answering system with the dataset from Wikipedia to allow users to input a question and get a relevant answer from the dataset.
@@ -36,13 +37,13 @@ The QAS will be implemented with DMN because it is a mature network for common f
 
 ***Langauges & Version***
 
-   Python 2.7.10
+    Python 2.7.10
 
 ***Modules Required:***
 
 Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently
 
-   pip install theano
+    pip install theano
 
 Lasagne is a lightweight library to build and train neural networks in Theano
 

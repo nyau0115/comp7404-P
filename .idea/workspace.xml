@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="963652c2-c370-487e-acb1-b36a1a35a306" name="Default" comment="">
+    <list default="true" id="963652c2-c370-487e-acb1-b36a1a35a306" name="Default" comment="revise readme">
       <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/all_test_short.txt" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/all_shuffled_test.txt" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/data/tasks_1-20_v1-2/en/all_shuffled_train.txt" afterPath="" />
@@ -152,8 +152,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../COMP7404-P/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="161" column="31" lean-forward="false" selection-start-line="161" selection-start-column="31" selection-end-line="161" selection-end-column="31" />
+            <state relative-caret-position="219">
+              <caret line="47" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="161" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -670,8 +670,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../COMP7404-P/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="161" column="31" lean-forward="false" selection-start-line="161" selection-start-column="31" selection-end-line="161" selection-end-column="31" />
+        <state relative-caret-position="219">
+          <caret line="47" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="161" selection-end-column="31" />
           <folding />
         </state>
       </provider>
